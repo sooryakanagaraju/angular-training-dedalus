@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./style.css">
+    <script src="./popup.js"></script>
+    <title>pop up</title>
+</head>
+<body>
+
+    <div class="container">
+        <img src="./david-lezcano-mNCFOaaLu5o-unsplash.jpg" alt="Snow">
+        <button class="button" href="#" onclick="show('popup')">login ? </button>
+      </div>
+    
+
+    <!---------------------------- pop up container-------------------------------------- -->
+    <div class="popup" id="popup">
+
+           
+            <form class="form-class">
+                <a href="#" class="closebutton" onclick="hide('popup')">x</a>
+                <h2 class="label-spacing">Register</h2>
+                
+                <input type="text" class="username-input" placeholder="first name">
+                <input type="text" class="username-input" placeholder="last name">
+                <input type="text" class="username-input" placeholder="city">
+                <input type="text" class="username-input" placeholder="country">
+                <input type="text" class="username-input" placeholder="age">
+                <input type="number" class="username-input" placeholder="experience">
+                <input type="date" class="username-input" placeholder="DOB">
+                <label for="male">male</label>
+                <input type='radio' class="radiobutton" id="male" name="gender">
+                <label for="male">female</label>
+                <input type='radio' class="radiobutton" id="female" name="gender">
+                <input type="text" class="username-input" placeholder="about you!">
+                <label for="c++" class="radiobutton">skills</label>
+                <label for="c++">c++</label>
+                <input type="checkbox" class="radiobutton" id="c++">
+                <label for="python">python</label>
+                <input type="checkbox" class="radiobutton" id="python">
+                <label for="sql">sql</label>
+                <input type="checkbox" class="radiobutton" id="sql">
+                
+                <button class="submit-button" type="submit">submit</button>
+                
+
+    </div>
+    
+</body>
+</html>

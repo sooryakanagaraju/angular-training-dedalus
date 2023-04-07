@@ -1,0 +1,138 @@
+*{
+    padding: 0%;
+    border: 0%;
+    margin: 0%;
+}
+
+.container img {
+    width: 100%;
+    height: 30%;
+  }
+  
+  .container .button {
+    position: absolute;
+    top: -3%;
+    background-color:#c7c8c4;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border-radius: 5px;
+    margin-left: 47%;
+  }
+  
+  .container .button:hover {
+    background-color: black;
+  }
+
+/* -----------------------------------above is background ------------------------------------------*/
+
+.popup {
+    display: none;
+    position: fixed;
+    padding: 10px;
+    width: 400px;
+    left: 36%;
+    height: 550px;
+    top: 30%;
+    margin-top: -155px;
+    background: #FFF;
+    z-index: 1;
+
+  }
+ 
+  #popup:after {
+    position: fixed;
+    content: "";
+    background: rgba(0,0,0,0.5);
+    transition: opacity 500ms;
+    background: black;
+    z-index: -1;
+  }
+
+  .closebutton{
+    float: right;
+    margin-right: 10px;
+  }
+  
+  a{ 
+    text-decoration: none;
+    color:black;
+  }
+
+  
+  /*----------------------- Styling buttons & webpage -----------------------*/
+
+  .button {
+      margin-top: 50px;
+      background-color: rgba(255,255,255,0.3);
+      font-size: 25px;
+      padding: 10px 20px;
+      
+  }
+  
+  .button:hover {
+      background-color: #706cc5;
+      color: #FFF;
+
+  }
+    
+  .button {
+    border: none;
+    border-radius: 2%;
+    background-color: bisque;
+    color: aliceblue;
+    display: block;
+    margin-left: 50%;
+    margin-top: 25%;
+    font-size: 25px;
+    padding: 10px 20px;
+      
+  }
+  
+  .button:hover {
+
+      color: #FFF;
+
+      transition: all 0.3s ease 0s;
+  }
+/*-------------------------input text and other fields--------------------------*/
+.username-input{
+    border: none;
+    width: 100%;
+    display: block;
+    border-radius: 2%;
+    background-color: rgb(181, 209, 231);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    box-sizing: border-box;
+    outline: 0;
+    padding: 10px;
+
+}
+
+.radiobutton{
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.label-spacing{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.submit-button{
+    border: none;
+    border-radius: 2%;
+    width: 100%;
+    background-color: rgb(170, 127, 74);
+    color: aliceblue;
+    margin-top: 20px;
+    padding: 7px 27px;
+    display: block;
+}
+
+  
