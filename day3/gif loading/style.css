@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    border: 0%;
+    background-color: rgb(161, 210, 210);
+}
+
+.countdown{
+    color:cadetblue;
+    font-size: 60px;
+    margin-left: 47%;
+    float: left;
+    background-color: bisque;
+    border-radius: 50%;
+    margin-top: 21%;
+    height: 110px;
+    width: 140px;
+    padding-top: 22px;
+    text-align: center;
+}
+
+.gifdiv{
+    margin-left: 210px;
+}
