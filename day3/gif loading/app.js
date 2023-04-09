@@ -1,4 +1,4 @@
-let timer = 5;
+let timer = 30;
     let element = document.getElementById('timeElm');
     let timerId = setInterval(countdown, 1000);
     
@@ -17,7 +17,7 @@ let timer = 5;
 
       show = function(){
         myDiv.style.display = "none";
-        setTimeout(hide, 6000); 
+        setTimeout(hide, 31000); 
       },
 
       hide = function(){
