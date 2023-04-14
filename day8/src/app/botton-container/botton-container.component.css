@@ -1,0 +1,32 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+    text-align: center;
+    color: black;
+}
+
+.service-box{
+    height:250px;
+    width: 33.3%;
+    margin-top: 30px;
+    box-sizing: border-box;
+
+    background-color: white;
+    color: white;
+    float: left;
+}
+img{ 
+    width: 15%;
+    margin-left: 43%;
+    display: block;
+}
+
+p{
+    width: 180px;
+    margin-left: 35%;
+    color: gray;
+    text-align: center;
+    display: block;
+    font-weight: bolder;
+}

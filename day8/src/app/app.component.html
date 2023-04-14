@@ -1,0 +1,18 @@
+  <div class="header">
+  <div class="icon">
+    <img src="http://localhost/logo.png" class="iconimage">
+    <span class="text"></span>
+    <div class="navigation-icons">
+        <ul id="nav">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Product</a></li>
+        <li><a href="#">Pricing</a></li>
+        <li><a href="#">Contact Us</a></li>
+        </ul>
+    </div>
+</div>
+</div>
+
+<app-helpnote [content]="dataitems.about" [description]="dataitems.matter"></app-helpnote>
+<app-botton-container *ngFor="let x of services;let y=index;" 
+[title]="x" [description]="descriptions[y]"  [imgtxt]="imgs[y]"></app-botton-container>
