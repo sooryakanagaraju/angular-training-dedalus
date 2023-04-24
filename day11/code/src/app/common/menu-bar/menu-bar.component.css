@@ -1,0 +1,29 @@
+*{ 
+    background-color: rgb(145, 162, 162);
+}
+
+.toolbar{ 
+    height: 39px;
+}
+span{ 
+    padding: 2px;
+    color: aliceblue;
+    font-size: 17px;
+}
+
+li { 
+    display: inline;
+    padding: 2px;
+    list-style: none;    
+}
+
+a{ 
+    text-decoration: none;
+    color: bisque;
+    font-size: large;
+    font-weight: 500;
+}
+
+a:hover{
+    color: aquamarine;
+}
