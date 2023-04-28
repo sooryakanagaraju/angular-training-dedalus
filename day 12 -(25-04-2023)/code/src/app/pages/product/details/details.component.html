@@ -1,0 +1,28 @@
+<div class="details">
+    <h1>{{details.name}}</h1>
+  
+    <div class="image">
+        <img src="http://localhost/{{service.image}}" />
+    </div>
+    
+    <p *ngFor="let x of details.description">
+        {{x}}
+    </p>
+
+    <p>price  : {{details.price | currency:'INR'}}</p>
+    </div>
+  <div class="reviewcontainer">
+  <hr>
+  
+        <div class="review" *ngFor="let x of reviews | reviewfilter :details.name">
+            <p class="data">{{x.name}} !!!</p>
+            <p class="data">"{{x.message}}"</p>
+        </div>
+  <hr>
+  </div>
+   
+  <div>
+      <app-reviews [prod] = "details.name"></app-reviews>
+  </div>
+  
+    

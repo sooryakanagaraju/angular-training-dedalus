@@ -1,0 +1,218 @@
+{
+  "complaints": [
+    {
+      "id": 63027,
+      "fname": "soorya",
+      "email": "soorya@gmail.com",
+      "message": "its working properly so no problem , finely working , the reviews are getting posted"
+    },
+    {
+      "id": 94579,
+      "fname": "soorya",
+      "email": "soorya@gmail.com",
+      "message": "its working properly so no problem , finely working , the reviews are getting posted"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "boult audio truebuds",
+      "price": 3000,
+      "image": "boultaudio.jpg",
+      "type": "Accessories"
+    },
+    {
+      "id": 2,
+      "name": "redmi y3",
+      "price": 8000,
+      "image": "redmi.jpg",
+      "type": "Mobiles"
+    },
+    {
+      "id": 3,
+      "name": "Badam",
+      "price": 700,
+      "image": "badam.jpg",
+      "type": "Groceries"
+    },
+    {
+      "id": 4,
+      "name": "Fifty Shades of Grey",
+      "price": 150,
+      "image": "book2.jpg",
+      "type": "Books"
+    },
+    {
+      "id": 5,
+      "name": "mac book",
+      "price": 250000,
+      "image": "mac.jpg",
+      "type": "Electronics"
+    },
+    {
+      "id": 6,
+      "name": "t-shirt",
+      "price": 800,
+      "image": "tshirt.jpg",
+      "type": "Lifestyle"
+    }
+  ],
+  "feedbacks": [
+    {
+      "id": 1,
+      "name": "Arjun",
+      "email": "arjun@gmail.com",
+      "type": "Accessories",
+      "message": "This is a perfect collaboration. Looking forward to work again."
+    },
+    {
+      "id": 2,
+      "name": "Kiran",
+      "email": "kiran@gmail.com",
+      "type": "Accessories",
+      "message": "This was an excellent project experience. Budget was too good."
+    },
+    {
+      "id": 3,
+      "name": "Arun",
+      "email": "arun@gmail.com",
+      "type": "Books",
+      "message": "Superb to Work with you. Looking forward to collaborate more."
+    },
+    {
+      "id": 4,
+      "name": "Narayan",
+      "email": "narayan@gmail.com",
+      "type": "Groceries",
+      "message": "Content Marketing was so so good."
+    },
+    {
+      "id": 5,
+      "name": "Nilesh",
+      "email": "nilesh@gmail.com",
+      "type": "Mobiles",
+      "message": "Best in this area of work"
+    },
+    {
+      "id": 6,
+      "name": "Josh",
+      "email": "josh@gmail.com",
+      "type": "Mobiles",
+      "message": "Digital Marketing is challenging but it was done so clean here."
+    },
+    {
+      "id": 7,
+      "name": "Kethan",
+      "email": "kethan@gmail.com",
+      "type": "Digital Marketing",
+      "message": "This is the place for Digital Marketing"
+    },
+    {
+      "id": 8,
+      "name": "Roger",
+      "email": "roger@gmail.com",
+      "type": "ECommerce & Websites",
+      "message": "My Ecommerce business picked up because of these guyz"
+    },
+    {
+      "id": 2446,
+      "name": "Ashish",
+      "email": "ashish@gmail.com",
+      "type": "ECommerce & Websites",
+      "message": "These people are specialist in Ecommerce space"
+    },
+    {
+      "id": 8615,
+      "name": "Randy",
+      "email": "randy@gmail.com",
+      "type": "Market Analysis",
+      "message": "Market analysis is best done here"
+    }
+  ],
+  "details": [
+    {
+      "id": 1,
+      "name": "boult audio truebuds",
+      "price": 3000,
+      "description": [],
+      "image": "iphone13pro.jpg"
+    },
+    {
+      "id": 2,
+      "name": "redmi y3",
+      "price": 8000,
+      "description": [
+        "Xiaomi Redmi Y3 Android smartphone. Announced Apr 2019. Features 6.26″ display, Snapdragon 632 chipset, 4000 mAh battery, 64 GB storage, 4 GB RAM,"
+      ],
+      "image": "lipstick.jpg"
+    },
+    {
+      "id": 3,
+      "name": "badam",
+      "price": 700,
+      "description": [
+        "The almond is a species of tree native to Iran and surrounding countries, including the Levant. The almond is also the name of the edible and widely cultivated seed of this tree."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "To Kill a Mockingbird",
+      "description": [
+        "     To Kill a Mockingbird is both a young girl's coming-of-age story and a darker drama ",
+        "about the roots and consequences of racism and prejudice, probing how good and evil can ",
+        "coexist within a single community or individual."
+      ],
+      "image": "mockingbird.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Apple MacBook Pro",
+      "description": [
+        "     Apple MacBook Pro is a macOS laptop with a 13.30-inch display that has a resolution of 2560x1600 pixels.",
+        "12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+        "It is powered by a Core i5 processor and it comes with 12GB of RAM. ",
+        "The Apple MacBook Pro packs 512GB of SSD storage."
+      ],
+      "image": "macbook-pro.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Moisturizing Lotion+",
+      "description": [
+        "     This medication is used as a moisturizer to treat or prevent dry, rough, scaly, itchy skin and minor skin irritations",
+        "(such as diaper rash, skin burns from radiation therapy).",
+        "12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+        "Emollients are substances that soften and moisturize the skin and decrease itching and flaking."
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "id": 260,
+      "name": "soorya",
+      "email": "soorya@gmail.com",
+      "message": "dsfkjsalsdjkafhkdjafhksadhfdjksafhdsfkj"
+    },
+    {
+      "id": 4880,
+      "name": "soorya",
+      "email": "soorya@gmail.com",
+      "message": "jdshajsfhsladfhsklajdfhlskajdfhsklad",
+      "product": "Headphone"
+    },
+    {
+      "id": 2728,
+      "name": "soorya",
+      "email": "soorya@gmail.com",
+      "message": "it is working perfectly fine and it is long lasting electronic item.",
+      "product": "redmi y3"
+    },
+    {
+      "id": 9927,
+      "name": "swetha",
+      "email": "swetha@gmail.com",
+      "message": "it is not working perfectly fine and it is not a long lasting electronic item.\"",
+      "product": "redmi y3"
+    }
+  ]
+}
